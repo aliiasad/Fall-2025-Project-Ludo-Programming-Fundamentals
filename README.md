@@ -1,6 +1,6 @@
 # Ludo Board Game (C++ / SFML)
 
-A 2D Ludo board game for 2–4 players, built with C++ and SFML 3.x.
+A 2D Ludo board game for 4 players, built with C++ and SFML 3.x.
 
 **Fall 2025 Programming Fundamentals Group Project**
 By **Asad Ali**, **Hajra Shehzad** and **Husnain Maauz**
